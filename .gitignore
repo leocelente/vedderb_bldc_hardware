@@ -2,3 +2,10 @@
 .FCStd1
 
 
+/design/BLDC_4-backups/
+/design/BLDC_4.csv
+/design/BLDC_4.kicad_prl
+/design/*.xml
+/design/rescue-backup/
+/design/sym-lib-table
+/design/fp-info-cache
