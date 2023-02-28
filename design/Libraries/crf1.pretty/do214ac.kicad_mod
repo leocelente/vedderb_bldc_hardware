@@ -33,4 +33,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/3D/BLDC_48_3D/shapes3D/_usr_share_kicad_modules_packages3d_walter_smd_diode_do214ac.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

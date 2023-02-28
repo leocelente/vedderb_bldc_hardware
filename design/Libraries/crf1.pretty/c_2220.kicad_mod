@@ -21,7 +21,7 @@
     (thermal_bridge_angle 45) (tstamp 8f751d01-069a-4e97-90d3-b414454f2735))
   (pad "2" smd rect (at -2.57556 0) (size 1.84912 5.4991) (layers "F.Cu" "F.Paste" "F.Mask")
     (thermal_bridge_angle 45) (tstamp 6709d9db-2cbd-4af8-bd4a-8a32897fb817))
-  (model "walter/smd_cap/c_2220.wrl"
+  (model "${KIPRJMOD}/3D/BLDC_48_3D/shapes3D/_usr_share_kicad_modules_packages3d_walter_smd_cap_c_2220.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -11139,7 +11139,7 @@
     (property "Value" "TC2117" (at 160.02 25.4 0)
       (effects (font (size 1.016 1.016)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-223" (at 160.02 30.48 0)
+    (property "Footprint" "CRF1:SOT-223" (at 160.02 30.48 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 160.02 30.48 0)
